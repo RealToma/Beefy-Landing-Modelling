@@ -17,23 +17,14 @@ import log from "../assets/img/log.png"
 const Featured = () => {
   return (
     <div className='featured'>
-
       <section className="css-13y9lfb e15xzscq1">
         <div className="css-1x2vnv5 e15xzscq0">
           <h1 className="css-1cv3sdj edu1the0">Featured Vaults</h1>
         </div>
         <div className="css-2tr2ip e1adrnnw2">
-
           <div className="css-7mh674 e1crn7yq1">
-
-            <a
-              href="https://app.beefy.com/vault/curve-arb-2pool"
-              target="_blank"
-              className="css-a0uzc9 eu1z4y28"
-            >
-
+            <a target="_blank" className="css-a0uzc9 eu1z4y28"  >
               <div className="css-1hqlaoj e1kfjwm71">
-
                 <img
                   alt=""
                   src={download}
@@ -42,13 +33,9 @@ const Featured = () => {
                   className="css-1xj3fno e1kfjwm70"
                 />
               </div>
-
               <div className="css-qr12fg eu1z4y26">
-
                 <div className="css-hejdok eu1z4y25">
-
                   <div data-count={2} className="css-3dful6 e2g9e6u0">
-
                     <img
                       src={download1}
                       alt=""
@@ -63,15 +50,11 @@ const Featured = () => {
                     />
                   </div>
                 </div>
-
                 <h3 className="css-a69g9x eu1z4y24">USDC/USDT</h3>
               </div>
-
               <div className="css-vntlqm eu1z4y23">
                 <div className="css-0 eu1z4y22">
-
                   <div className="css-eir4y3 eu1z4y21">APY</div>
-
                   <div className="css-odr3em eu1z4y20">3.45%</div>
                 </div>
                 <div className="css-0 eu1z4y22">
@@ -80,12 +63,7 @@ const Featured = () => {
                 </div>
               </div>
             </a>
-            <a
-              href="https://app.beefy.com/vault/curve-poly-atricrypto3"
-              target="_blank"
-              className="css-a0uzc9 eu1z4y28"
-            >
-
+            <a target="_blank" className="css-a0uzc9 eu1z4y28" >
               <div className="css-1odntsc e1kfjwm71">
                 <img
                   alt=""
@@ -143,12 +121,7 @@ const Featured = () => {
                 </div>
               </div>
             </a>
-            <a
-              href="https://app.beefy.com/vault/fantom-bifi-maxi"
-              target="_blank"
-              className="css-a0uzc9 eu1z4y28"
-            >
-
+            <a target="_blank" className="css-a0uzc9 eu1z4y28"  >
               <div className="css-wms8ci e1kfjwm71">
                 <img
                   alt=""
@@ -182,11 +155,7 @@ const Featured = () => {
                 </div>
               </div>
             </a>
-            <a
-              href="https://app.beefy.com/vault/beefy-beFTM"
-              target="_blank"
-              className="css-a0uzc9 eu1z4y28"
-            >
+            <a target="_blank" className="css-a0uzc9 eu1z4y28"    >
               <div className="css-wms8ci e1kfjwm71">
                 <img
                   alt=""
@@ -220,12 +189,7 @@ const Featured = () => {
                 </div>
               </div>
             </a>
-            <a
-              href="https://app.beefy.com/vault/velodrome-velo-usdc"
-              target="_blank"
-              className="css-a0uzc9 eu1z4y28"
-            >
-
+            <a target="_blank" className="css-a0uzc9 eu1z4y28"    >
               <div className="css-n4r936 e1kfjwm71">
                 <img
                   alt=""
@@ -265,12 +229,7 @@ const Featured = () => {
                 </div>
               </div>
             </a>
-            <a
-              href="https://app.beefy.com/vault/ripae-scro-cro"
-              target="_blank"
-              className="css-a0uzc9 eu1z4y28"
-            >
-
+            <a target="_blank" className="css-a0uzc9 eu1z4y28">
               <div className="css-1sc07on e1kfjwm71">
                 <img
                   alt=""
@@ -311,20 +270,13 @@ const Featured = () => {
               </div>
             </a>
           </div>
-
           <div className="css-ddxuaf e1crn7yq0">
-            <a
-              target="_blank"
-              href="https://app.beefy.com/"
-              className="css-1ciubr2 e1z5he54"
-            >
+            <a target="_blank" className="css-1ciubr2 e1z5he54"  >
               Explore Vaults
             </a>
           </div>
         </div>
       </section>
-
-
     </div>
   )
 }

@@ -7,7 +7,6 @@ import gmx from "../assets/img/gmx.webp"
 const News = () => {
     return (
         <div className='news'>
-
             <section className="css-13y9lfb e15xzscq1">
                 <div className="css-1x2vnv5 e15xzscq0">
                     <h1 className="css-1cv3sdj edu1the0">News</h1>
@@ -15,14 +14,8 @@ const News = () => {
                 </div>
                 <div className="css-2tr2ip e1adrnnw2">
                     <div className="css-18lzcol e1vj3d270">
-
-                        <a
-                            className="css-1h4c9oi e1a48bva4"
-                            href="/articles/earn-glp-with-beefy-s-new-glp-strategy-and-vaults/"
-                        >
-
+                        <a className="css-1h4c9oi e1a48bva4"   >
                             <div className="css-z1xsiw e1a48bva6">
-
                                 <div
                                     data-gatsby-image-wrapper=""
                                     className="gatsby-image-wrapper gatsby-image-wrapper-constrained css-zhb531 e1a48bva5"
@@ -49,7 +42,6 @@ const News = () => {
                                         alt=""
                                     />
                                     <picture>
-                                        
                                         <img
                                             data-gatsby-image-ssr=""
                                             data-main-image=""
@@ -57,33 +49,25 @@ const News = () => {
                                             sizes="(min-width: 568px) 568px, 100vw"
                                             decoding="async"
                                             loading="lazy"
-                                          src={gmx}
+                                            src={gmx}
                                             alt=""
                                         />
                                     </picture>
-                                   
                                 </div>
                             </div>
-
                             <div className="css-tfa8v2 e1a48bva3">
-
                                 <h3 className="css-1mdrpts e1a48bva2">
                                     Beefy is now taking GLP deposits on both Arbitrum and
                                     Avalanche
                                 </h3>
-
                                 <p className="css-1e7garz e1a48bva1">
                                     Learn about Beefy's new strategy for GLP, a token minted to
                                     liquidity providers on GMX.
                                 </p>
-
                                 <p className="css-1eevthg e1a48bva0">October 27, 2022</p>
                             </div>
                         </a>
-                        <a
-                            className="css-1h4c9oi e1a48bva4"
-                            href="/articles/introducing-bevelo-beefy-s-latest-escrowed-token/"
-                        >
+                        <a className="css-1h4c9oi e1a48bva4"   >
                             <div className="css-z1xsiw e1a48bva6">
                                 <div
                                     data-gatsby-image-wrapper=""
@@ -102,10 +86,7 @@ const News = () => {
                                             }}
                                         />
                                     </div>
-                                  
-                                  
                                     <picture>
-                                       
                                         <img
                                             data-gatsby-image-ssr=""
                                             data-main-image=""
@@ -113,11 +94,10 @@ const News = () => {
                                             sizes="(min-width: 568px) 568px, 100vw"
                                             decoding="async"
                                             loading="lazy"
-                                           src={bevelo_poster}
+                                            src={bevelo_poster}
                                             alt=""
                                         />
                                     </picture>
-                                   
                                 </div>
                             </div>
                             <div className="css-tfa8v2 e1a48bva3">
@@ -162,7 +142,6 @@ const News = () => {
                                         alt=""
                                     />
                                     <picture>
-
                                         <img
                                             data-gatsby-image-ssr=""
                                             data-main-image=""
@@ -174,7 +153,6 @@ const News = () => {
                                             alt=""
                                         />
                                     </picture>
-
                                 </div>
                             </div>
                             <div className="css-tfa8v2 e1a48bva3">
@@ -187,10 +165,7 @@ const News = () => {
                                 <p className="css-1eevthg e1a48bva0">October 18, 2022</p>
                             </div>
                         </a>
-                        <a
-                            className="css-1h4c9oi e1a48bva4"
-                            href="/articles/beefy-helps-grow-the-optimism-community-with-a-650-000-op-grant/"
-                        >
+                        <a className="css-1h4c9oi e1a48bva4"      >
                             <div className="css-z1xsiw e1a48bva6">
                                 <div
                                     data-gatsby-image-wrapper=""
@@ -218,7 +193,6 @@ const News = () => {
                                         alt=""
                                     />
                                     <picture>
-
                                         <img
                                             data-gatsby-image-ssr=""
                                             data-main-image=""
@@ -230,7 +204,6 @@ const News = () => {
                                             alt=""
                                         />
                                     </picture>
-
                                 </div>
                             </div>
                             <div className="css-tfa8v2 e1a48bva3">
@@ -246,13 +219,12 @@ const News = () => {
                         </a>
                     </div>
                     <div className="css-ddxuaf e1t9qn7l0">
-                        <a className="css-1ciubr2 e1z5he53" href="/articles/">
+                        <a className="css-1ciubr2 e1z5he53" >
                             View all Articles
                         </a>
                     </div>
                 </div>
             </section>
-
         </div>
     )
 }

@@ -39,9 +39,7 @@
 }
 
 
-  {
-  /* header  */
-}
+/* header */
 
 .css-1o7bzh6 {
   max-width: 100%;
@@ -159,9 +157,7 @@
 }
 
 
-  {
-  /*footer */
-}
+/* footer */
 
 .css-1o90vk6 {
   display: -webkit-box;
@@ -223,11 +219,19 @@
   height: 24px;
 }
 
-
-  {
-  /* first-componet */
+.evshdie2:hover {
+  background-color: #61dafb;
 }
 
+
+/* Multichain */
+.e1z5he54:hover {
+  background-color: #61dafb;
+}
+
+.e1z5he55:hover {
+  background-color: #61dafb;
+}
 
 .css-1aanf1p {
   max-width: 100%;
@@ -245,7 +249,7 @@
   -ms-flex-align: center;
   align-items: center;
   padding: 88px 0px;
-  background-image: url(../src/assets/img/image_2022_11_07T05_27_37_589Z.png), url(../src/assets/img/image_2022_11_07T05_27_37_590Z.png), url(../src/assets/img/image_2022_11_07T05_27_37_591Z.png), url(../src/assets/img/image_2022_11_07T05_27_37_592Z.png);
+  background-image: url(../src/assets/img/image_2022_11_07T05_27_37_590Z.png), url(../src/assets/img/image_2022_11_07T05_27_37_591Z.png), url(../src/assets/img/image_2022_11_07T05_27_37_592Z.png), url(../src/assets/img/image_2022_11_07T05_27_37_589Z.png);
   background-repeat: no-repeat;
   -webkit-background-position: left 64px, right 64px, left bottom, right bottom;
   background-position: left 64px, right 64px, left bottom, right bottom;
@@ -379,9 +383,7 @@
 }
 
 
-  {
-  /* Beefy */
-}
+/* Beefy */
 
 .css-1x2vnv5 {
   max-width: 100%;
@@ -587,8 +589,9 @@
 
 
 
-  {
-  /* Featured */
+/* Featured */
+.e1z5he54:hover {
+  background-color: #61dafb;
 }
 
 .css-7mh674 {
@@ -1057,9 +1060,9 @@
   margin-top: 56px;
 }
 
-  {
-  /* Ecosystem */
-}
+
+/* Ecosystem */
+
 
 .css-h0rllm {
   display: grid;
@@ -1127,8 +1130,9 @@
 }
 
 
-  {
-  /* Token */
+/* Token */
+.e9tpxzm0:hover {
+  background-color: #61dafb;
 }
 
 .css-cmgywl {
@@ -1195,8 +1199,11 @@
   text-align: center;
 }
 
-  {
-  /* News */
+
+/* News */
+
+.e1z5he53:hover {
+  background-color: #61dafb;
 }
 
 .css-1h4c9oi {
@@ -1281,11 +1288,6 @@
 
 
 
-
-
-
-
-
 .css-cvbpzn {
   display: -webkit-box;
   display: -webkit-flex;
@@ -1299,14 +1301,17 @@
   background-color: #121212;
 }
 
-
-/* .ticker{
+.ticker{
   position: absolute; left: 0px; top: 0px; transform: translate3d(-2765.45px, 0px, 0px);will-change: transform;
-} */
+}
 
- .ticker_element{
+.css-1rq6kut.eczxexw3 {
   position: absolute;
-  -webkit-animation: linear infinite;
+}
+/* 
+.ticker_element{
+  position: absolute;
+  -webkit-animation:reverse;
   -webkit-animation-name: run;
   -webkit-animation-duration: 10s;
 
@@ -1317,11 +1322,5 @@
   }
   100% {
     left: 0;
-  }
+  } */
 } 
-
-
-
-.css-1rq6kut.eczxexw3 {
-  position: absolute;
-}

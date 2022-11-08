@@ -9,7 +9,6 @@ import Token from './Components/Token';
 import News from "../src/Components/News"
 import Footer from "../src/Components/Footer"
 
-
 function App() {
   return (
     <div className="App">
@@ -28,11 +27,8 @@ function App() {
             <Footer />
           </div>
         </div>
-        <div
-         
-        />
+        <div />
       </div>
-
     </div>
   );
 }
